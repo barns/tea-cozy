@@ -41,6 +41,14 @@ nav li {
     margin: 0 10px;
 }
 
+nav a {
+    color: seashell;
+}
+
+nav a:visited {
+    color: seashell;
+}
+
 /* Main body */
 
 main {
